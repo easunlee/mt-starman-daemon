@@ -59,6 +59,7 @@ location /cgi-bin/mt/ {
  1. Add to `mt-config.cgi`:
 ```perl
 PIDFilePath /var/run/mt.pid
+TransparentProxyIPs  1
 ```
 
  2. Also you can add this in `mt-config.cgi` (for beautiful url's without extensions):
