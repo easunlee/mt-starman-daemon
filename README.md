@@ -4,7 +4,7 @@
 
  1. Install cpanminus:
 ```sh
-curl -L http://cpanmin.us | perl - --sudo App::cpanminus`
+curl -L http://cpanmin.us | perl - --sudo App::cpanminus
 ```
 
  2. Install Perl modules:
