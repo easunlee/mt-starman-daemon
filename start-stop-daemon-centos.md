@@ -13,7 +13,7 @@
     ./configure && make
     find / -name start-stop-daemon 
 
-    #copy到/usr/local/sbin/下。
+    #copy to /usr/local/sbin/
     cp /tmp/dpkg-1.16.18/utils/start-stop-daemon /usr/local/sbin/
     
 ```
