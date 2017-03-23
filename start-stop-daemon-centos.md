@@ -1,4 +1,4 @@
-#  安装 mt-starman-daemon 简单教程
+#  CentOS 安装 mt-starman-daemon 简单教程
 ## 参考教程： [http://www.centoscn.com/CentOS/help/2016/1209/8270.html](http://www.centoscn.com/CentOS/help/2016/1209/8270.html)
     
 ```sh
